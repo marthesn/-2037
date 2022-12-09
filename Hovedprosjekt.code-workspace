@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Hovedprosjekt",
+			"path": "Hovedprosjekt"
+		},
+		{
+			"name": "Tema 1",
+			"path": "Tema 1"
+		},
+		{
+			"name": "Tema 2",
+			"path": "Tema 2"
+		},
+		{
+			"name": "Tema 3",
+			"path": "Tema 3"
+		},
+		{
+			"name": "vue-components-calculators",
+			"path": "vue-components-calculators"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hovedprosjekt"
+	}
+}
